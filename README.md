@@ -1,3 +1,5 @@
+![IPL Project Architecture](https://github.com/FaisalxWattoo/IPL_Data_Analytics-End_To_End_Azure_Data_Eng_Project/blob/main/azure%20ipl%20project%20architecture.png "IPL Project Architecture")
+
 # IPL Data Analytics Project
 
 ## Project Overview
